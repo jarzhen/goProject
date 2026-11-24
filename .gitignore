@@ -1,0 +1,4 @@
+*.exe
+upx_tmp/
+*.zip
+*.png
